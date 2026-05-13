@@ -115,7 +115,7 @@ Workflow : terminal first, Git always, docs when needed
 ## Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/benxur01/benxur01/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+  <img src="https://raw.githubusercontent.com/benxur01/benxur01/output/github-contribution-grid-snake-dark.svg?cache=1" alt="GitHub contribution snake animation" />
 </p>
 
 ---
