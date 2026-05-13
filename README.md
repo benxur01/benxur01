@@ -60,11 +60,23 @@ mindset     : ship fast, learn deep, keep it clean</code></pre>
 
 ---
 
-## Currently Building
+## Featured Work
 
 <p align="center">
   <a href="https://github.com/benxur01/Olympy">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=benxur01&repo=Olympy&theme=tokyonight&hide_border=true&border_radius=16" alt="Olympy repo card" />
+  </a>
+  <a href="https://github.com/benxur01/POS_System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=benxur01&repo=POS_System&theme=tokyonight&hide_border=true&border_radius=16" alt="POS System repo card" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/benxur01/ITquiz">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=benxur01&repo=ITquiz&theme=tokyonight&hide_border=true&border_radius=16" alt="ITquiz repo card" />
+  </a>
+  <a href="https://github.com/benxur01/ProSkill_quiz_bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=benxur01&repo=ProSkill_quiz_bot&theme=tokyonight&hide_border=true&border_radius=16" alt="ProSkill quiz bot repo card" />
   </a>
 </p>
 
