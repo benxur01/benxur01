@@ -44,7 +44,7 @@ mindset     : ship fast, learn deep, keep it clean</code></pre>
 ## Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,linux,arch,git,github,django,react,js,html,css,vite,sqlite,postgres,bash,vscode&perline=8" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=java,python,linux,arch,git,github,django,react,js,html,css,vite,sqlite,postgres,bash,idea,pycharm&perline=9" alt="Tech stack icons" />
 </p>
 
 <p align="center">
@@ -54,6 +54,8 @@ mindset     : ship fast, learn deep, keep it clean</code></pre>
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA%20Ultimate-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=111827" />
 </p>
 
 ---
@@ -106,7 +108,7 @@ Online olimpiada platformasi:
 # preferred environment
 OS       : Arch Linux
 Shell    : Bash
-Editor   : VS Code
+IDE      : IntelliJ IDEA Ultimate / PyCharm
 Workflow : terminal first, Git always, docs when needed
 ```
 
