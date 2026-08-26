@@ -44,7 +44,7 @@ mindset     : ship fast, learn deep, keep it clean</code></pre>
 ## Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,linux,arch,git,github,django,vite,postgres,bash,idea,pycharm&perline=9" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=java,python,linux,arch,git,github,django,postgres,bash,idea,pycharm&perline=9" alt="Tech stack icons" />
 </p>
 
 <p align="center">
